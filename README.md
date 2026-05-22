@@ -2,7 +2,7 @@
 
 > *Predict the quality of a red wine from its chemical properties — and understand exactly why.*
 
-[![Live App](https://img.shields.io/badge/Live%20App-Streamlit-8B0000?style=for-the-badge&logo=streamlit&logoColor=white)](https://your-app-link.streamlit.app)
+[![Live App](https://sommelier-ai-wine-intelligence-platform-csmsbyvkrkto9kwnvfclje.streamlit.app/)
 [![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-RandomForest-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org)
 [![SHAP](https://img.shields.io/badge/Explainability-SHAP-c9846a?style=for-the-badge)](https://shap.readthedocs.io)
