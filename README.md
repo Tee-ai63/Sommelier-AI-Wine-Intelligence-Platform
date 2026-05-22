@@ -21,7 +21,7 @@ Built on the [UCI Wine Quality Dataset](https://archive.ics.uci.edu/dataset/186/
 
 ## Live Demo
 
-**[→ Try Sommelier AI on Streamlit](https://your-app-link.streamlit.app)**
+**[→ Try Sommelier AI on Streamlit] (https://sommelier-ai-wine-intelligence-platform-csmsbyvkrkto9kwnvfclje.streamlit.app/)**
 
 Adjust the sliders to match a wine's chemistry profile, click **Analyse This Wine**, and get:
 - A predicted quality score with confidence level
