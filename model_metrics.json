@@ -1,0 +1,31 @@
+{
+  "accuracy": 0.598,
+  "n_train": 814,
+  "n_test": 204,
+  "features": [
+    "fixed acidity",
+    "volatile acidity",
+    "citric acid",
+    "residual sugar",
+    "chlorides",
+    "free sulfur dioxide",
+    "total sulfur dioxide",
+    "density",
+    "pH",
+    "sulphates",
+    "alcohol"
+  ],
+  "shap_importance": {
+    "alcohol": 0.0424,
+    "sulphates": 0.038,
+    "volatile acidity": 0.033,
+    "total sulfur dioxide": 0.0217,
+    "chlorides": 0.0191,
+    "citric acid": 0.0176,
+    "pH": 0.0163,
+    "density": 0.016,
+    "free sulfur dioxide": 0.0149,
+    "residual sugar": 0.0147,
+    "fixed acidity": 0.0131
+  }
+}
